@@ -12,6 +12,8 @@ body {
     display: flex;
     flex-direction: column;
     color: #3a3a3a;
+    font-family: lato, sans-serif;
+    font-weight: 300%;
 }
 
 header{
@@ -19,7 +21,9 @@ header{
 }
 main {
     background-color: blanchedalmond;
+    
 }
 footer {
     background-color: blueviolet;
+    
 }
