@@ -49,6 +49,7 @@ nav {
     text-decoration: none;
     color: inherit;
 }
+
 /* Hamburger menu */
 .hamburger {
     display: none;
@@ -57,10 +58,11 @@ nav {
 }
 /* Main content */
 main {
-    background-color: blanchedalmond;
+    background-color: green;
     flex: 1;
     padding: 20px;
 }
+
 .content {
     display: flex;
     flex-direction: column;
@@ -123,4 +125,29 @@ footer p {
     #logo {
         font-size: 2.2rem;
     }
+}
+#reason {
+    height: 650px;
+}
+#reason h2 {
+    padding-right: 30px;
+}
+#first {
+    padding-top: 35px;
+    width: 3%;
+    float: left;
+    background-color: pink;
+}
+#last {
+    padding-top: 35px;
+    width: 30%;
+    float: right;
+    padding-left: 20px;
+    background-color: blue;
+}
+#middle {
+    width: 35%;
+    margin: 0 auto;
+    background-color: #fff;
+
 }
