@@ -1,57 +1,126 @@
-/*import font-family*/
+/* Import font-family */
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Oswald:wght@200..700&display=swap');
-
-/*asterisk wildcard selector to override the default function*/
+/* Asterisk wildcard selector to override the default function */
 * {
     padding: 0;
     margin: 0;
     border: 0;
+    box-sizing: border-box;
 }
-/*body*/
+/* Body */
 body {
-    min-height: 100%;
+    min-height: 100vh;
     display: flex;
     flex-direction: column;
     color: #3a3a3a;
-    font-family: lato, sans-serif;
-    font-weight: 300%;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    margin: 0;
 }
-h1, h2 {
-    text-transform: uppercase;
-    font-family: oswald, sans-serif;
-    letter-spacing: 5px;
-    color: #252525;
-
+.container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: aqua;
+    padding: 1.5rem;
 }
 #logo {
-    float: left;
-    font-size: 280%;
+    font-size: 2.8em;
+}
+nav {
+    display: flex;
+    align-items: center;
 }
 #menu {
-    font-size: 120%;
+    display: flex;
+    font-size: 1.2em;
     letter-spacing: 5px;
-}
-#menu, #logo {
-    line-height: 80px;
+    list-style: none;
 }
 #menu li {
-    float: right;
-    list-style-type: none;
-    margin-right: 35px;
+    margin-left: 35px;
 }
 #menu a {
     text-decoration: none;
     color: inherit;
 }
-
-header{
-    background-color: aqua;
+/* Hamburger menu */
+.hamburger {
+    display: none;
+    font-size: 2em;
+    cursor: pointer;
 }
+/* Main content */
 main {
     background-color: blanchedalmond;
-    
+    flex: 1;
+    padding: 20px;
 }
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+.content img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+}
+.content h1 {
+    font-size: 3rem;
+}
+.content h2 {
+    font-size: 2rem;
+    text-align: left;
+}
+.content p {
+    padding: 1rem;
+    line-height: 1.3rem;
+    font-size: 1.2rem;
+    text-align: left;
+}
+/* Footer */
 footer {
     background-color: blueviolet;
-    
+    text-align: center;
+    padding: 20px 0;
+    color: #fff;
+}
+footer a {
+    margin: 0 10px;
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.5em;
+    padding: 0 3rem;
+}
+footer p {
+    padding: 1rem 0;
+}
+/* Responsive menu */
+@media (max-width: 750px) {
+    #menu {
+        display: none;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+        background-color: aqua;
+    }
+    #menu.show {
+        display: flex;
+    }
+    #menu li {
+        margin: 15px 0;
+    }
+    .hamburger {
+        display: block;
+    }
+    #logo {
+        font-size: 2.2rem;
+    }
 }
