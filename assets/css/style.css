@@ -58,7 +58,7 @@ nav {
 }
 /* Main content */
 main {
-    background-color: green;
+    background-color:orange;
     flex: 1;
     padding: 20px;
 }
@@ -111,7 +111,7 @@ footer p {
         flex-direction: column;
         align-items: center;
         width: 100%;
-        background-color: aqua;
+        background-color:orange;
     }
     #menu.show {
         display: flex;
@@ -129,25 +129,36 @@ footer p {
 #reason {
     height: 650px;
 }
-#reason h2 {
-    padding-right: 30px;
-}
+
+
 #first {
     padding-top: 35px;
-    width: 3%;
+    width: 33%;
     float: left;
     background-color: pink;
 }
 #last {
     padding-top: 35px;
-    width: 30%;
+    width: 33%;
     float: right;
     padding-left: 20px;
     background-color: blue;
 }
 #middle {
-    width: 35%;
+    width: 33%;
     margin: 0 auto;
     background-color: #fff;
 
+}
+hr {
+    border-top: 1px solid #3a3a3a;
+    width: 100%;
+    margin: 5px 0;
+}
+.first {
+    width: 60%;
+    float: left;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
 }
