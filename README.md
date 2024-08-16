@@ -104,6 +104,8 @@ The site was deployed to Github pages as follows:
 
 + Once the main was selected, the page provided the link to the website
 
+  The live link: [Classic_Friendly](https://friday79.github.io/Classic_Friendly/)
+
 
 
 
