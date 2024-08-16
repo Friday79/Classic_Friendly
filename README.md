@@ -15,7 +15,7 @@ The site is responsive to all screen sizes.
 
    # Header
 
-   On the left top corner of the home page, is the title: Keeping Fit.
+   On the left top corner of the home page, is the title: Keeping Fit.The color of the header is Aqua.
 
    ![Screenshot_16-8-2024_141333_silver-space-engine-69rwgpr946pp2x56r-8000 app github dev](https://github.com/user-attachments/assets/fc5f0691-7433-42f1-b01c-8436f3cd9be0)
 
