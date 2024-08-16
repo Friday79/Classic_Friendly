@@ -34,8 +34,19 @@ The site is responsive to all screen sizes.
      -   On the rigth top of this section, shows how swimming help us to socialize.
     
      + On the right bottom of this section shows how swimming affect our Health positively.
+    
+     +  At the bottom below is the date and time for swimming execise.
+    
+       ![image](https://github.com/user-attachments/assets/2773b6a8-9630-40a4-b367-8b344d5a1f8b)
 
-![image](https://github.com/user-attachments/assets/e4e104f2-79f3-444b-828a-10ec98f3518b)
++ The Footer
++   In the Footer, we have facebook, Instagram, X, and linkedin.
++   When click upon, it will open  in a new page.
+
+   ![image](https://github.com/user-attachments/assets/54615c1f-89fe-4695-b620-0570c28a59d5)
+
+
+   
 
      
 
