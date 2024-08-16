@@ -74,7 +74,13 @@ The site is responsive to all screen sizes.
      
    ![image](https://github.com/user-attachments/assets/62849c24-d591-4cd5-ab50-2003b3a22922)
    
+# Html validator W3c
 
+![image](https://github.com/user-attachments/assets/22365fc1-cc9f-46d9-a536-8b61ff34df24)
+
+# Css Style Validator w3c
+
+![image](https://github.com/user-attachments/assets/a744fe82-3e6c-461e-9219-fbd5de96ea6b)
 
 
 
