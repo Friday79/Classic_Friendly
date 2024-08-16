@@ -82,6 +82,29 @@ The site is responsive to all screen sizes.
 
 ![image](https://github.com/user-attachments/assets/a744fe82-3e6c-461e-9219-fbd5de96ea6b)
 
+# The Version Use
+
++ The site was created using vs code and pushed to Github to the remote repository " Classic_Friendly".
+
++ Git commands were used throughout the development to push the code to the remote repository. The following git commands were used:
+
+1 git add . - to add the files to the staging area before being committed.
+
+2 git commit -m "commit message" - to commit changes to the local repository queue that are ready for the final step.
+
+3 git push - to push all committed code to the remote repository on Github.
+
+# Deployment to Github pages
+
+The site was deployed to Github pages as follows:
+
++ In the Github repository, I navigated to Settings tab.
+ 
++ From the source section drop-down menu, I selected the main and Save
+
++ Once the main was selected, the page provided the link to the website
+
+
 
 
 
