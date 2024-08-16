@@ -47,18 +47,33 @@ The site is responsive to all screen sizes.
 
 
    # Gallery
-    
-     In the Gallery are images of boy, girls , men and women swimming in the pool.
 
-     # The Signup 
+   + Images of step by step guide.
+
+   + Images of teenagers by the pool.
+
+   + Images of a gold medalist.
+   
+   ![image](https://github.com/user-attachments/assets/d6e39fbd-8b3c-4708-abca-7855bfb623ed)
+
+![image](https://github.com/user-attachments/assets/9fd4239a-9568-4a41-b1b3-fec1eb0e1084)
+
+![image](https://github.com/user-attachments/assets/24102c11-d6bc-42f6-ba85-6afbd6652a66)   
+    
+![image](https://github.com/user-attachments/assets/ba3eb73e-2e10-4d74-8e12-c867a2d2bd76)
+     
      In the signup is where you register and come experience the benefits of swimming
+
+      There is a space for username.
      
+      There is a space for password
+
+      Checkbox for remember 
+
+      A link to register
      
-     
-     
-     
-     
-     ![image](https://github.com/user-attachments/assets/62849c24-d591-4cd5-ab50-2003b3a22922)
+   ![image](https://github.com/user-attachments/assets/62849c24-d591-4cd5-ab50-2003b3a22922)
+   
 
 
 
