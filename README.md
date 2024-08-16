@@ -109,8 +109,12 @@ The site was deployed to Github pages as follows:
   # Appreciation 
 
 + The icons in the footer and in the Home page was taking from Font Awesome
+  
 + I appreciate my Mentor that gave me guide line .
+  
 +  Love Running project was of a great help to me
+
++ Gallery image taking from bing 
   
 
 
