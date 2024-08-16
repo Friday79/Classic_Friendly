@@ -46,7 +46,27 @@ The site is responsive to all screen sizes.
    ![image](https://github.com/user-attachments/assets/54615c1f-89fe-4695-b620-0570c28a59d5)
 
 
-   
+   # Gallery
+    
+     In the Gallery are images of boy, girls , men and women swimming in the pool.
+
+     # The Signup 
+     In the signup is where you register and come experience the benefits of swimming
+     
+     
+     
+     
+     
+     
+     ![image](https://github.com/user-attachments/assets/62849c24-d591-4cd5-ab50-2003b3a22922)
+
+
+
+
+
+
+
+     
 
      
 
