@@ -13,3 +13,7 @@ The site is responsive to all screen sizes.
    Features on the right top of the home page are the Menu, Gallery and Signup.
    When click upon it will take you to the various pages.
 
+   # Header
+
+   On the left top corner of the home page, is the title: Keeping Fit.
+
