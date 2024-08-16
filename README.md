@@ -106,6 +106,13 @@ The site was deployed to Github pages as follows:
 
   The live link: [Classic_Friendly](https://friday79.github.io/Classic_Friendly/)
 
+  # Appreciation 
+
++ The icons in the footer and in the Home page was taking from Font Awesome
++ I appreciate my Mentor that gave me guide line .
++  Love Running project was of a great help to me
+  
+
 
 
 
