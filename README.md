@@ -115,6 +115,9 @@ The site was deployed to Github pages as follows:
 +  Love Running project was of a great help to me
 
 + Gallery image taking from bing 
+
+  # Admin
+  + Not yet set up
   
 
 
