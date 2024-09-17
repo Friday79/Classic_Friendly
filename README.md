@@ -82,6 +82,8 @@ The site is responsive to all screen sizes.
 
 ![image](https://github.com/user-attachments/assets/a744fe82-3e6c-461e-9219-fbd5de96ea6b)
 
+
+
 # The Version Use
 
 + The site was created using vs code and pushed to Github to the remote repository " Classic_Friendly".
