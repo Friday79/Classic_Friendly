@@ -84,7 +84,7 @@ The site is responsive to all screen sizes.
 
 # Gallery validator w3c
 
-
+![image](https://github.com/user-attachments/assets/a68bcafe-1968-43c1-b124-0551a1f9b70c)
 
 
 # The Version Use
