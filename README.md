@@ -82,6 +82,9 @@ The site is responsive to all screen sizes.
 
 ![image](https://github.com/user-attachments/assets/a744fe82-3e6c-461e-9219-fbd5de96ea6b)
 
+# Gallery validator w3c
+
+
 
 
 # The Version Use
