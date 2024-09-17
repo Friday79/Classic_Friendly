@@ -48,7 +48,7 @@ The site is responsive to all screen sizes.
 
    # Gallery
 
-   + Images of step by step guide.
+
 
    + Images of teenagers by the pool.
 
@@ -60,7 +60,7 @@ The site is responsive to all screen sizes.
 
 ![image](https://github.com/user-attachments/assets/24102c11-d6bc-42f6-ba85-6afbd6652a66)   
     
-![image](https://github.com/user-attachments/assets/ba3eb73e-2e10-4d74-8e12-c867a2d2bd76)
+
      
      In the signup is where you register and come experience the benefits of swimming
 
