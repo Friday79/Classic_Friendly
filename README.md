@@ -99,6 +99,10 @@ The site is responsive to all screen sizes.
 
 3 git push - to push all committed code to the remote repository on Github.
 
+# Testing
+
++ I tested the Home ,Signup and Gallery, they run very well.
+
 # Deployment to Github pages
 
 The site was deployed to Github pages as follows:
