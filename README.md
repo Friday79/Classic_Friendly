@@ -101,7 +101,7 @@ The site is responsive to all screen sizes.
 
 # Testing
 
-+ I tested the Home ,Signup and Gallery, they run very well.
++ I 
 
 # Deployment to Github pages
 
