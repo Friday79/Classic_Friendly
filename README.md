@@ -101,7 +101,10 @@ The site is responsive to all screen sizes.
 
 # Testing
 
-+ I 
++ On lighthouse
+
+![image](https://github.com/user-attachments/assets/3157092a-1f94-446e-92d7-7feb89285982)
+  
 
 # Deployment to Github pages
 
